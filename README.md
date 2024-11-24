@@ -1,1 +1,7 @@
-Vídeo da Apresentação: https://youtu.be/ySmppAcuMo4
+# Análise da Detecção de Fraudes em Transações Financeiras com Modelos de Aprendizado de Máquina
+
+A detecção de fraudes financeiras é um desafio crescente na era digital, impulsionado pelo aumento das transações online e pela complexidade das operações financeiras. Este estudo investiga o uso de técnicas de aprendizado de máquina para identificar transações fraudulentas em dados de cartões de crédito, com ênfase no modelo Random Forest. O objetivo principal é desenvolver um modelo eficaz para a detecção de fraudes financeiras, utilizando um conjunto de dados público do Kaggle contendo transações reais de cartões de crédito europeus. O modelo foi avaliado com métricas como acurácia, precisão, revocação, \(F_1\)-score e AUC, com resultados indicando que o Random Forest superou outros modelos, como Logistic Regression, Naive Bayes, Support Vector Machine, e K-Nearest Neighbors, em termos de desempenho geral. Os resultados destacam a eficácia do Random Forest em identificar fraudes de forma robusta e eficiente, apresentando uma alta capacidade discriminatória, especialmente em cenários com dados desbalanceados. Este trabalho contribui para a literatura acadêmica ao demonstrar o uso prático de modelos de aprendizado de máquina para a detecção de fraudes financeiras, além de discutir as implicações e desafios dessa tecnologia no setor financeiro.
+
+### Vídeo da Apresentação:
+
+https://youtu.be/ySmppAcuMo4
